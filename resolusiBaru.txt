@@ -1,0 +1,5 @@
+Belum punya rencana
+Resolusi dalam waktu dekat saya : 
+* menggabungkan fitur - fitur pengembangan perangkat lunak 
+* menelusuri framework teringini
+* mencoba Git remotebranch
